@@ -1,7 +1,7 @@
 import sid from "../TeamPic/siddarth.png";
 import bj from "../TeamPic/bj.png";
 import niraj from "../TeamPic/niraj.png";
-import bibasjk from "../Projects/bibasjk.png";
+import shreepanch from "../Projects/shreepaanch.jpg";
 import kerkar from "../Projects/kerkar.png";
 import womensday from "../Projects/womensday.jpg";
 // Team Data
@@ -34,10 +34,10 @@ export const team = [
 export const projects = [
   {
     id: 1,
-    title: "Bibas JK - Angalo",
+    title: "KTA HARU - Shree Paanch",
     description: "Official Music Video",
-    image: bibasjk, // Replace with actual path
-    tags: ["Video Production", "SEO", "Social Media"],
+    image: shreepanch, // Replace with actual path
+    tags: ["Video Production", "Audio Recording", "Social Media"],
   },
   {
     id: 2,

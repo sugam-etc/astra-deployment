@@ -13,7 +13,7 @@ import Footer from "./Footer";
 import ktaharuposter from "../assets/Events/ktaharu.jpg";
 import liljhola from "../assets/Events/liljhola.png";
 import rumafest from "../assets/Events/rumafest.png";
-import bibashjk from "../assets/Projects/bibasjk.png";
+import shreepanch from "../assets/Projects/shreepaanch.jpg";
 import womensdayhighlight from "../assets/Highlights/womensday1.jpg";
 //Women's Day Highlights
 import womensday1 from "../assets/Highlights/womensday1.jpg";
@@ -107,10 +107,10 @@ const Events = () => {
   const productions = [
     {
       id: 1,
-      title: "Angaalo Music Video",
-      client: "Bibas JK",
+      title: "Shree Paanch Music Production",
+      client: "Kta Haru Band",
       services: ["Cinematography", "Editing", "Color Grading"],
-      image: bibashjk,
+      image: shreepanch,
       videoUrl: "#",
     },
     {
